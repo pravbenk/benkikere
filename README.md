@@ -1,2 +1,3 @@
-# benkikere
-benkproj
+# maven-project
+
+Simple Maven Project
